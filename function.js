@@ -1,3 +1,5 @@
+'use strict';
+
 // 1. Function declaration
 // one function == one thing
 // naming: doSomething, command, verb
